@@ -2,7 +2,7 @@
 
 My name is Vladimir. I'm Front-end developer from Innopolis University. Also interested in Data Science and Analytics.
 
-🔭 I’m currently working on [Marker](marker.tips) — an AI writing assistant, that helps to write bold, and clear texts on the Russian language.
+🔭 I’m currently working on [Marker](https://marker.tips) — an AI writing assistant, that helps to write bold, and clear texts on the Russian language.
 
 <!--
 **kilimanj4r0/kilimanj4r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
