@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is Vladimir. I'm Front-end developer from Innopolis University. Also interested in Data Science and Analytics.
+My name is Vladimir. I'm Software Engineer from Innopolis University. Interested in NLP, Data Science, and Front-end development.
 
 🔭 I’m currently working on [Marker](https://marker.tips) — an AI writing assistant, that helps to write bold, and clear texts on the Russian language.
+
+⚡ I’m also involved in various software, data science and robotics projects. 
+
+🤔 I’m looking for a job, you can reach me on [Telegram](https://t.me/sm1rk)!
 
 <!--
 **kilimanj4r0/kilimanj4r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
