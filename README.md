@@ -2,7 +2,7 @@
 
 My name is Vladimir. I'm Software Engineer from Innopolis University. Interested in NLP, Data Science, and Product Design.
 
-🔭 I’m currently working on Golf Club & Fleet Management System — an IT software, that simplifies golf club management and enhances golfer comfort.
+⛳ I’m currently working on Golf Club & Fleet Management System — an IT software, that simplifies golf club management and enhances golfer comfort.
 
 🔥 I’m also involved in various AI, software and robotics projects. 
 
