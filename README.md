@@ -4,7 +4,7 @@ My name is Vladimir. I'm Research Scientist in AXXX and Innopolis University.
 
 🔥 I’m doing academic research in NLP, LLM, Reasoning, and Coding Agents & Harness. 
 
-⛳ I’m developer Golf Club & Fleet Management System — an IT software, that simplifies golf club management and enhances golfer comfort.
+⛳ I’m developer of Golf Club & Fleet Management System — an IT software, that simplifies golf club management and enhances golfer comfort.
 
 🎾 I love to play tennis!
 
